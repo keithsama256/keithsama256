@@ -1,30 +1,43 @@
-# 👋 Hey, I’m Keith Jacob
+👋🏽 Hey, I’m Keith Jacob
 
-🎨 **Creative Designer & Construction Engineer**  
-💼 Founder & Lead Creative at **Vormo Inc.** – a design studio focused on **brand identity**, **web design**, and **scalable visual systems**  
-📈 Passionate about building timeless brands through strategic design and clean web experiences
+🎨 **Multidisciplinary Designer & Construction Engineer**  
+💡 Founder & Lead Creative at **Vormo Inc.** — a studio crafting **timeless brand identities**, **modern web experiences**, and **scalable design systems**.  
+🔧 With a background in engineering and a passion for storytelling through visuals, I bridge logic and creativity to deliver meaningful, high-impact work.
 
 
-## 🚀 What I Do
-- 🧠 Brand Identity Design  
-- 🖥️ UI/UX & Front-End Web Design  
-- 📐 Construction Engineering Visualization  
-- ✍🏽 Visual Systems & Design Strategy
+🚀 What I Do
 
-## 🌱 Currently Learning
-- 🧩 Advanced CSS & Front-End Frameworks  
-- 🛠️ Responsive Web Architecture  
-- 🧱 Expanding my engineering expertise with a creative edge
+- 🎯 **Brand Identity Design** – Logos, systems, and brand worlds that resonate  
+- 🖥️ **UI/UX & Web Design** – Clean, responsive, user-first websites  
+- 🏗️ **Engineering Visualization** – Clear, technical renderings with a design-led touch  
+- 🧩 **Design Systems & Strategy** – Cohesive frameworks that scale with your brand
 
-## 🤝 Open to Collaborate On
-- Branding Projects  
-- Web & UI/UX Design  
-- Creative Campaigns and Design-Led Experiences
 
-## 📫 Let’s Connect
-🌐 [linktr.ee/keithjacobluganda](https://linktr.ee/keithjacobluganda)  
-📩 Available for freelance, studio partnerships, or collabs
+🌱 I’m Currently Exploring
 
-## ⚡ Fun Fact
-Huge football fan (🔴 Manchester United / ⚪ Real Madrid), a gamer at heart, and always experimenting in the kitchen 🍳⚽🎮
+- 🎨 Advanced CSS & Front-End Frameworks (Tailwind, Next.js)  
+- 🐍 Learning Python — for automation, design tools, and future dev integrations  
+- 🌍 Building accessible, responsive web architectures  
+- 🧠 Fusing engineering logic with creative strategy to solve real-world problems
+
+
+🤝 Available For
+
+- ✴️ Branding Projects & Identity Systems  
+- ✴️ Web & UI/UX Design Collaborations  
+- ✴️ Creative Direction & Visual Strategy  
+- ✴️ Freelance or Partnership with Studios & Startups
+
+
+📫 Let’s Connect
+
+🔗 [linktr.ee/keithjacobluganda](https://linktr.ee/keithjacobluganda)  
+📩 Open for freelance, commissions, or creative collabs  
+🏢 Based in Uganda – working remotely, globally 🌍  
+
+
+⚡ A Bit About Me
+
+Off the screen, I’m either watching a classic Man United match ⚽, deep in a video game 🎮, or experimenting with spices in the kitchen 🍳.  
+I believe the best ideas come when creativity meets structure — and I live at that intersection.
 
