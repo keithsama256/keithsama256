@@ -1,6 +1,6 @@
 👋🏽 Hey, I’m Keith Jacob
 
-🎨 **Multidisciplinary Designer & Construction Engineer**  
+🎨 **Multidisciplinary Designer & Web Developer**  
 💡 Founder & Lead Creative at **Vormo Inc.** — a studio crafting **timeless brand identities**, **modern web experiences**, and **scalable design systems**.  
 🔧 With a background in engineering and a passion for storytelling through visuals, I bridge logic and creativity to deliver meaningful, high-impact work.
 
@@ -8,8 +8,7 @@
 🚀 What I Do
 
 - 🎯 **Brand Identity Design** – Logos, systems, and brand worlds that resonate  
-- 🖥️ **UI/UX & Web Design** – Clean, responsive, user-first websites  
-- 🏗️ **Engineering Visualization** – Clear, technical renderings with a design-led touch  
+- 🖥️ **UI/UX & Web Design** – Clean, responsive, user-first websites   
 - 🧩 **Design Systems & Strategy** – Cohesive frameworks that scale with your brand
 
 
